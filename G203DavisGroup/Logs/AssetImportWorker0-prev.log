@@ -1,0 +1,231 @@
+Using pre-set license
+Built from '2021.3/china_unity/release' branch; Version is '2021.3.18f1c1 (93698379025b) revision 9660803'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 16152 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.18f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/完美/G203DavisGroup（1）/G203DavisGroup
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58485
+Successfully changed project path to: D:/完美/G203DavisGroup（1）/G203DavisGroup
+D:/完美/G203DavisGroup（1）/G203DavisGroup
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [14468] Host "[IP] 192.168.50.102 [Port] 0 [Flags] 2 [Guid] 1089817224 [EditorId] 1089817224 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [14468] Host "[IP] 192.168.50.102 [Port] 0 [Flags] 2 [Guid] 1089817224 [EditorId] 1089817224 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+AS: AutoStreaming module initializing.
+Refreshing native plugins compatible for Editor in 58.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.18f1c1 (93698379025b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.18f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/完美/G203DavisGroup（1）/G203DavisGroup/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 Ti Laptop GPU (ID=0x2420)
+    Vendor:   NVIDIA
+    VRAM:     16189 MB
+    Driver:   31.0.15.3129
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56300
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003601 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 60.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.482 seconds
+Domain Reload Profiling:
+	ReloadAssembly (483ms)
+		BeginReloadAssembly (57ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (338ms)
+			LoadAssemblies (53ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (73ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (200ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (60ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (93ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004620 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\完美\G203DavisGroup（1）\G203DavisGroup\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\完美\G203DavisGroup（1）\G203DavisGroup\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.988 seconds
+Domain Reload Profiling:
+	ReloadAssembly (989ms)
+		BeginReloadAssembly (87ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (810ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (207ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (440ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (341ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3869 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 4318.
+Memory consumption went from 150.7 MB to 149.2 MB.
+Total: 2.892700 ms (FindLiveObjects: 0.215000 ms CreateObjectMapping: 0.104000 ms MarkObjects: 2.357500 ms  DeleteObjects: 0.214400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 132415.068802 seconds.
+  path: Assets/PROG2001-2023-T1-Abel-Ass3/Canvas 1.prefab
+  artifactKey: Guid(dc8ecc030373e444b874f42d7a1747cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PROG2001-2023-T1-Abel-Ass3/Canvas 1.prefab using Guid(dc8ecc030373e444b874f42d7a1747cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3379f73434b498be2f8ca52e061bf3b') in 0.084056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/PROG2001-2023-T1-Abel-Ass3/冒险岛2——场景音乐3_爱给网_aigei_com.mp3
+  artifactKey: Guid(88b7e215a88352e4bb74034ef83030dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PROG2001-2023-T1-Abel-Ass3/冒险岛2——场景音乐3_爱给网_aigei_com.mp3 using Guid(88b7e215a88352e4bb74034ef83030dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ef149a4dca097e2992b8054fb486ec') in 0.058256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/PROG2001-2023-T1-Abel-Ass3/Canvas.prefab
+  artifactKey: Guid(8d76ef96baa98734196603bf31c54e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PROG2001-2023-T1-Abel-Ass3/Canvas.prefab using Guid(8d76ef96baa98734196603bf31c54e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d5aa528d78b9798bb6ceedbe26f148') in 0.022146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/PROG2001-2023-T1-Abel-Ass3/New Terrain 1.asset
+  artifactKey: Guid(92647a3e8ce9b3944a8e6c597a880fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PROG2001-2023-T1-Abel-Ass3/New Terrain 1.asset using Guid(92647a3e8ce9b3944a8e6c597a880fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93793a4e1ca682ce5b55971c461fff74') in 0.007680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/PROG2001-2023-T1-Abel-Ass3/bu.prefab
+  artifactKey: Guid(763a102b8f35a854fb0d3a2b51079926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PROG2001-2023-T1-Abel-Ass3/bu.prefab using Guid(763a102b8f35a854fb0d3a2b51079926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eadb8ce8ae4a862948c5d1a1985a4249') in 0.019476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.893449 seconds.
+  path: Assets/PROG2001-2023-T1-Davis-Ass3/BackgroundMusic.mp3
+  artifactKey: Guid(5b6cd986f002dc145b367a6c4489a62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PROG2001-2023-T1-Davis-Ass3/BackgroundMusic.mp3 using Guid(5b6cd986f002dc145b367a6c4489a62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd82934002e55dff664297a96407dbf9f') in 0.005369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000785 seconds.
+  path: Assets/PROG2001-2023-T1-Davis-Ass3/GameObject (1).prefab
+  artifactKey: Guid(a60302d35b6ee5241953c5f7b958e1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PROG2001-2023-T1-Davis-Ass3/GameObject (1).prefab using Guid(a60302d35b6ee5241953c5f7b958e1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9e0239de3b0ddd2e470f69bdba738c') in 0.002576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/PROG2001-2023-T1-Davis-Ass3/GameObject (2).prefab
+  artifactKey: Guid(af607340896501f4ca9c9926fa3037c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PROG2001-2023-T1-Davis-Ass3/GameObject (2).prefab using Guid(af607340896501f4ca9c9926fa3037c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41d7fda398cfa81580fb9302e64d10e') in 0.016287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/PROG2001-2023-T1-Davis-Ass3/MenuMusic.mp3
+  artifactKey: Guid(7958573b2b633be48a1c96e20ec32a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PROG2001-2023-T1-Davis-Ass3/MenuMusic.mp3 using Guid(7958573b2b633be48a1c96e20ec32a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b2703ad7c2c56251480a4a77782a5e0') in 0.006515 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/PROG2001-2023-T1-Davis-Ass3/setButton.prefab
+  artifactKey: Guid(bb539b6cb1f18f449b47fd28a4a6df6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PROG2001-2023-T1-Davis-Ass3/setButton.prefab using Guid(bb539b6cb1f18f449b47fd28a4a6df6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c6914d0545881648e15fab4f6526cf') in 0.003186 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
